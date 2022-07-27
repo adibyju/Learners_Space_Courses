@@ -1,0 +1,15 @@
+.equip-card {
+    text-align: center;
+    margin: 20px;
+    border: 2px #fce588 solid;
+    border-radius: 15px 0 15px 0;
+}
+
+.equip-img {
+    transform: scale(0.9);
+    max-width: 250px;
+}
+
+.equip-name, .equip-no {
+    padding: 0px 10px;
+}

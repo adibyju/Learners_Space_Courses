@@ -1,0 +1,49 @@
+.Pages {
+    display: inline;
+    margin: 10px;
+}
+
+.Button1 {
+    display: inline;
+    border: 2px #fce588 solid;
+    border-radius: 0px 0px 0px 15px;
+    padding: 1px 20px;
+    padding-bottom: 3px;
+    font-size: smaller;
+}
+
+.Button2, .Button3 {
+    display: inline;
+    border: 2px #fce588 solid;
+    padding: 1px 20px;
+    padding-bottom: 3px;
+    font-size: smaller;
+}
+
+.Button4 {
+    display: inline;
+    border: 2px #fce588 solid;
+    border-radius: 0px 15px 0px 0px;
+    padding: 1px 20px;
+    padding-bottom: 3px;
+    font-size: smaller;
+}
+
+.Button5 {
+    display: inline;
+    border: 2px #fce588 solid;
+    border-radius: 15px 0px 15px 0px;
+    padding: 1px 20px;
+    padding-bottom: 3px;
+    font-size: smaller;
+    float: right;
+}
+
+.Button1:hover, .Button2:hover, .Button3:hover, .Button4:hover, .Button5:hover {
+    background-color: #fce558;
+    color: #1b2527;
+}
+
+#tech, #music, #testi, #sports, #contact {
+    display: none;
+}

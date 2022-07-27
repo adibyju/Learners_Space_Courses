@@ -1,0 +1,23 @@
+.Top-bar {
+    display:flex;
+    align-items:center;
+}
+
+.PG-logo {
+    width: 5em;
+    /* align-self: flex-end; */
+    /* padding-top: 0.6em; */
+
+}
+
+.Heading-div {
+    padding-right: 5em;
+    text-align: center;
+    width: 100%;
+}
+
+.Heading {
+    display: inline-block;
+    /* padding-left: 2em; */
+    
+}

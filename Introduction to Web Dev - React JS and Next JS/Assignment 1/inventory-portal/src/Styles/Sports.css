@@ -1,0 +1,4 @@
+.sports1, .sports2, .sports3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

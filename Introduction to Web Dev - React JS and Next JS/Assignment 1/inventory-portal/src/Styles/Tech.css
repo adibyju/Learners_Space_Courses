@@ -1,0 +1,4 @@
+.tech1, .tech2, .tech3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

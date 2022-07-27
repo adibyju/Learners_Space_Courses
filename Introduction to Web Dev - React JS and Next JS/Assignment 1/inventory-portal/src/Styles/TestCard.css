@@ -1,0 +1,30 @@
+.Card {
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+    border: 1px #fce588 solid;
+    border-radius: 15px;
+    min-width: 15em;
+    box-shadow: 5px 10px 20px black;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.dp {
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+    min-width: 15em;
+}
+
+.name {
+    color: #fce588;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.details {
+    font-size: smaller;
+}
